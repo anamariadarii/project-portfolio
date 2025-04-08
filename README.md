@@ -27,9 +27,8 @@ I'm currently looking for an opportunity to grow as a **Python Developer** in a 
 | Project Name           | Description                                                                 | Tech / Tools                  | Link           |
 |------------------------|-----------------------------------------------------------------------------|-------------------------------|----------------|
 | **Python Slot Machine Game** | Console-based game that simulates a slot machine, with betting logic and win calculation. | Python (random, functional logic) | [GitHub](https://github.com/anamariadarii/python-slot-machine) |
-| 
-|**Jetpack Pug Platformer** | Platformer game where you control a pug with a jetpack, navigating platforms and collecting coins. | Python, Pygame                   | [https://github.com/anamariadarii1/my-first-python-game/tree/main](#)                                   | 
-| **Space Shooter Game**     | A fast-paced two-player game where players control spaceships, avoid asteroids, and shoot each other. | Python, Pygame                   | [https://github.com/anamariadarii1/Space-Shooter-Game/tree/main](#)                                   |
+|**Jetpack Pug Platformer** | Platformer game where you control a pug with a jetpack, navigating platforms and collecting coins. | Python, Pygame                   | [GitHub](https://github.com/anamariadarii1/my-first-python-game/tree/main)                                   | 
+| **Space Shooter Game**     | A fast-paced two-player game where players control spaceships, avoid asteroids, and shoot each other. | Python, Pygame                   | [GitHub](https://github.com/anamariadarii1/Space-Shooter-Game/tree/main)                                   |
 
 
 ---
