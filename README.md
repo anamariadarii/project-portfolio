@@ -1,56 +1,64 @@
-# 💻 Ana-Maria Darii – Developer Portfolio
+# 🐍 Ana-Maria Darii – Python Developer Portfolio
 
-Welcome to my personal portfolio repository!  
-Here you’ll find a curated selection of my software projects, developed during my studies, internships, and independent learning. This space showcases my skills, growth, and passion for technology, programming, and problem-solving.
+Welcome to my Python-focused portfolio repository!  
+Here you’ll find projects built using Python – from automation tools to data analysis and small applications.  
+This repo showcases my journey to becoming a professional **Python Developer**.
 
 ---
 
 ## 👩‍🎓 About Me
 
-I’m a final-year **Automatic Control and Computer Science** student at the University Politehnica of Bucharest.  
-I have experience in both educational and technical roles, having worked as a **Programming Instructor** and a **Payload Team Member** for Romania's first student satellite.
-
-I enjoy teaching, working on real-world challenges, and using technology to build creative solutions.
+I’m a final-year **Computer Science** student at the University Politehnica of Bucharest.  
+Passionate about writing clean, efficient code and solving real-world problems with Python.  
+I'm currently looking for an opportunity to grow as a **Python Developer** in a collaborative, challenging environment.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, C#, HTML, CSS  
-- **Frameworks & Libraries:** Unity, Pandas, NumPy  
-- **Tools:** Git, VS Code, Figma  
-- **Other:** Experience with AI/Data Science workshops and hands-on web development
+- **Languages:** Python (main), JavaScript, C#  
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Tkinter, Selenium, Git  
+- **Other:** GitHub, VS Code, basic SQL, REST APIs
 
 ---
 
-## 💼 Projects
+## 🐍 Python Projects
 
-| Project               | Description                                                                 | Tech Stack             | Links         |
-|-----------------------|-----------------------------------------------------------------------------|------------------------|---------------|
-| **AI Workshop Platform** | A platform to teach students the basics of AI and data science using Python. | Python, Pandas, NumPy  | [GitHub](#)   |
-| **Unity Game Project**  | A game developed during Logiscool workshops using Unity and C#.              | Unity, C#              | [GitHub](#)   |
-| **Personal Website**    | A responsive website created during WellCode training.                       | HTML, CSS, JavaScript  | [GitHub](#)   |
+| Project Name           | Description                                                                 | Tech / Tools                  | Link           |
+|------------------------|-----------------------------------------------------------------------------|-------------------------------|----------------|
+| **Task Manager CLI App** | Command-line to-do list with file storage and deadline tracking.           | Python (argparse, file I/O)   | [GitHub](#)     |
+| **Weather Scraper**     | Web scraper that fetches and saves daily weather data in CSV format.       | Python, BeautifulSoup, CSV    | [GitHub](#)     |
+| **Simple Budget Tracker** | Tkinter-based GUI app for tracking income and expenses.                  | Python, Tkinter               | [GitHub](#)     |
+| **Data Analysis Demo**   | Analysis on sample datasets using Pandas and Matplotlib.                   | Python, Pandas, Matplotlib    | [GitHub](#)     |
+
 
 ---
 
-## 🚀 Notable Experience
+## 🚀 Experience
 
 - 👩‍🏫 **Programming Instructor @ Logiscool**  
-  Delivered workshops on Python, AI/Data Science, Unity, and JavaScript.
+  Taught students Python basics, including algorithms, data science, and game development.
 
 - 🛰️ **Payload Team @ ROSPIN-SAT-1 (ESA Program)**  
-  Contributed to Romania’s first student satellite: documentation, analysis, presentations.
+  Documented, researched and tested payload systems – part of Romania’s first student satellite.
 
-- 🧑‍💻 **Frontend Trainee @ WellCode**  
-  Practiced advanced JS, HTML, and CSS with mentor guidance.
+---
 
-- 💼 **Fundraising @ BEST Bucharest**  
-  Led fundraising efforts and cultivated sponsor relationships.
+## 🎯 Career Goals
+
+I’m looking for an **entry-level Python Developer** role or internship where I can:
+- Work on real-world Python applications (web, data, automation, etc.)
+- Collaborate with experienced developers
+- Continue learning and improving through feedback and practice
 
 ---
 
 ## 📫 Contact
 
 - 📍 **Location:** Bucharest, Romania  
-- 📧 **Email:** anamariadarii1@gmail.com 
+- 📧 **Email:** anamariadarii1@gmail.com   
 - 💻 **GitHub:** [github.com/anamariadarii](#)
+
+---
+
+⭐ *Thank you for visiting! Check out my projects below and feel free to reach out!*
