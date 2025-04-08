@@ -26,7 +26,7 @@ I'm currently looking for an opportunity to grow as a **Python Developer** in a 
 
 | Project Name           | Description                                                                 | Tech / Tools                  | Link           |
 |------------------------|-----------------------------------------------------------------------------|-------------------------------|----------------|
-| **Task Manager CLI App** | Command-line to-do list with file storage and deadline tracking.           | Python (argparse, file I/O)   | [GitHub](#)     |
+| **Python Slot Machine Game** | Console-based game that simulates a slot machine, with betting logic and win calculation. | Python (random, functional logic) | [GitHub](https://github.com/anamariadarii/python-slot-machine)         |
 | **Weather Scraper**     | Web scraper that fetches and saves daily weather data in CSV format.       | Python, BeautifulSoup, CSV    | [GitHub](#)     |
 | **Simple Budget Tracker** | Tkinter-based GUI app for tracking income and expenses.                  | Python, Tkinter               | [GitHub](#)     |
 | **Data Analysis Demo**   | Analysis on sample datasets using Pandas and Matplotlib.                   | Python, Pandas, Matplotlib    | [GitHub](#)     |
