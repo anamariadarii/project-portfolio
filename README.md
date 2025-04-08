@@ -8,7 +8,7 @@ Here you’ll find a curated selection of my software projects, developed during
 ## 👩‍🎓 About Me
 
 I’m a final-year **Automatic Control and Computer Science** student at the University Politehnica of Bucharest.  
-I have experience in both educational and technical roles, having worked as a **Programming Instructor**, a **Payload Team Member** for Romania's first student satellite, and a **Frontend Trainee**.
+I have experience in both educational and technical roles, having worked as a **Programming Instructor** and a **Payload Team Member** for Romania's first student satellite.
 
 I enjoy teaching, working on real-world challenges, and using technology to build creative solutions.
 
@@ -52,6 +52,5 @@ I enjoy teaching, working on real-world challenges, and using technology to buil
 ## 📫 Contact
 
 - 📍 **Location:** Bucharest, Romania  
-- 📧 **Email:** anamariadarii1@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](#)  
-- 💻 **GitHub:** [github.com/yourusername](#)
+- 📧 **Email:** anamariadarii1@gmail.com 
+- 💻 **GitHub:** [github.com/anamariadarii](#)
