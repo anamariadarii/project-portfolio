@@ -8,7 +8,7 @@
 
 ## Projects  
 
-- **FastShop API**  
+- **[FastShop API](https://github.com/anamariadarii/fastshop-api)**  
   E-commerce microservice built with FastAPI, PostgreSQL, Docker, and Kafka.  
 
 - **[Python Slot Machine](https://github.com/anamariadarii/python-slot-machine)**  
