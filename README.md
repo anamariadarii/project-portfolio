@@ -1,25 +1,26 @@
-# Ana-Maria Darii | Python Developer  
+# Ana-Maria Darii | Python Developer
 
-## Tech Stack  
-- **Languages:** Python, JavaScript, C, C++  
-- **Frameworks & Libraries:** FastAPI, Pandas, NumPy, Pygame, Selenium  
-- **Tools:** Git, Docker, REST APIs  
-- **Databases:** SQL, PostgreSQL  
+## Tech Stack
+- **Languages:** Python, JavaScript, C, C++
+- **Frameworks & Libraries:** FastAPI, SQLAlchemy (async), Pydantic, Alembic, Pandas, NumPy, Pygame, Selenium
+- **Auth & Security:** JWT, Passlib (bcrypt)
+- **Databases:** PostgreSQL, SQL
+- **Tools:** Git, Docker, Docker Compose, REST APIs, Linux/WSL
 
-## Projects  
+## Projects
 
 - **[FastShop API](https://github.com/anamariadarii/fastshop-api)**  
-  E-commerce microservice built with FastAPI, PostgreSQL, Docker, and Kafka.  
+  E-commerce microservice built with FastAPI, PostgreSQL, SQLAlchemy/Alembic, JWT auth, and Docker (Compose).
 
 - **[Python Slot Machine](https://github.com/anamariadarii/python-slot-machine)**  
-  Console-based slot machine game with betting and win calculation.  
+  Console-based slot machine game with betting logic, input validation, and winnings calculation.
 
 - **[Jetpack Pug Game](https://github.com/anamariadarii1/my-first-python-game/tree/main)**  
-  Platformer game using Pygame, where a pug with a jetpack collects coins.  
+  Platformer game using Pygame where a pug with a jetpack collects coins.
 
 - **[Space Shooter](https://github.com/anamariadarii1/Space-Shooter-Game/tree/main)**  
-  Two-player arcade game with spaceships, asteroids, and shooting mechanics.  
+  Two-player arcade game with spaceships, asteroids, and shooting mechanics.
 
-## Contact  
-- GitHub: [github.com/anamariadarii](https://github.com/anamariadarii)  
-- Email: anamariadarii1@gmail.com  
+## Contact
+- GitHub: [github.com/anamariadarii](https://github.com/anamariadarii)
+- Email: anamariadarii1@gmail.com
