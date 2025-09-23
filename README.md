@@ -9,6 +9,9 @@
 
 ## Projects
 
+- **[Funnel Intelligence Dashboard](https://github.com/anamariadarii/funnel-intelligence)**  
+  E-commerce funnel analytics dashboard with synthetic data (SQLite + CSV), KPIs (conversion rate, CAC, LTV 90d, ROAS), 30-day conversion prediction (scikit-learn), and a Streamlit UI.
+
 - **[FastShop API](https://github.com/anamariadarii/fastshop-api)**  
   E-commerce microservice built with FastAPI, PostgreSQL, SQLAlchemy/Alembic, JWT auth, and Docker (Compose).
 
